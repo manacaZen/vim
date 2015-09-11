@@ -1,0 +1,9 @@
+syntax enable
+set background=dark
+colorscheme solarized
+let g:solarized_termcolors=256
+set number
+set textwidth=80
+set formatoptions+=mM
+set backup
+set backupdir=~/.vim/tmp
